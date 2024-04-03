@@ -1,3 +1,4 @@
+
 # SA.02-WK2-Code-Challenge
 
 ## DESCRIPTION 
@@ -41,4 +42,5 @@ Javascript
 
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
+
 
